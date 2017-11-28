@@ -4,7 +4,7 @@ def test_mean():
     assert mean([1]) == 1
 
 def test_ints():
-    "adding comments"
+    "adding comments 1 2 3 frrrrrr"
     num_list = [1, 2, 3, 4, 5]
     obs = mean(num_list)
     exp = 3
